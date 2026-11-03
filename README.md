@@ -16,13 +16,16 @@ I'm a Stockholm-based growth and performance marketer with 5+ years of experienc
 | [Lovable PRD Generator](https://github.com/adamamrullah/lovable-prd-generator) | Open-format agent skill for practical, testable product requirements | Public repository |
 | [Creative Nomads landing-page prototype](https://github.com/adamamrullah/ai-powered-boost) | AI-assisted marketing-site prototyping with React and TypeScript | UI prototype |
 | [Boost With AI](https://boostwithai.se/) | AI and marketing learning content, with supporting publishing workflow | Live project; automation details separately documented |
-| AI content automation pipeline | Editorial-to-publication workflow documentation with guardrails | Documentation package prepared; publishing pending |
-| GSC opportunity analyzer | Reproducible SEO opportunity scoring demo | Local working example; publishing pending |
-| Anja — AI Ads Assistant | WhatsApp-first, human-approved ads workflow design | Product case study; implementation status not independently verified |
-| Svensk Together | Family-focused Swedish learning game | Product case study; implementation status not independently verified |
-| Mother Speaks English | Registration experience and community-platform UX | Case study; operational systems not open sourced |
+| [AI content automation pipeline](https://github.com/adamamrullah/ai-content-automation-pipeline) | Editorial-to-publication workflow documentation with guardrails | Published workflow documentation |
+| [GSC opportunity analyzer](https://github.com/adamamrullah/gsc-opportunity-analyzer) | Reproducible SEO opportunity scoring demo | Published Python demo; five tests passed |
+| [Anja — AI Ads Assistant](https://github.com/adamamrullah/anja-ai-ads-assistant) | WhatsApp-first, human-approved ads workflow design | Product case study; implementation status not independently verified |
+| [Svensk Together](https://github.com/adamamrullah/svensk-together) | Family-focused Swedish learning game | Product case study; implementation status not independently verified |
+| [Mother Speaks English](https://github.com/adamamrullah/mse-community-platform) | Registration experience and community-platform UX | Case study; operational systems not open sourced |
 
 ## Experience highlights
+
+[Read the growth marketing case studies](https://github.com/adamamrullah/growth-marketing-case-studies).
+
 
 - **GrabJobs:** previously reported +450% SaaS subscriber growth in Indonesia over six months and growth of local monthly recurring revenue from ~$211 to over $11,000 within a year.
 - **SEO:** helped manage GrabJobs' organic acquisition work at a scale of over 1 million monthly clicks (historical figure, not a current live claim).
